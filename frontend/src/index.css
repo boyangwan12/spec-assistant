@@ -1,0 +1,16 @@
+@import 'react-pdf/dist/esm/Page/TextLayer.css';
+@import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #f6f8fa;
+  font-family: 'Inter', sans-serif;
+}
+
+.highlighted-pdf-element {
+  background: yellow;
+  transition: background 0.4s;
+}
