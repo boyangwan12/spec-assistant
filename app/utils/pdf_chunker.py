@@ -95,40 +95,24 @@ def chunk_from_parsed_elements(elements: List[Dict[str, Any]], merge_headings: b
             section = text
         elements[i]['section'] = section
         elements[i]['page_numbers'] = [el.get('page', el.get('page_number', None))] if el.get('page', el.get('page_number', None)) is not None else []
-    # Merge headings with next paragraph if requested
-    i = 0
-    while i < len(elements):
-        if merge_headings:
-            is_heading = (
-                elements[i]['text'].isupper() or
-                re.match(r"^\d+(\.\d+)*[ .]", elements[i]['text'])
-            )
-            if is_heading and i + 1 < len(elements):
-                merged_text = elements[i]['text'].strip() + '\n' + elements[i + 1]['text'].strip()
-                bboxes = [elements[i]['bbox'], elements[i + 1]['bbox']]
-                merged_bbox = [
-                    min([b[0] for b in bboxes]),
-                    min([b[1] for b in bboxes]),
-                    max([b[2] for b in bboxes]),
-                    max([b[3] for b in bboxes])
-                ]
-                chunks.append({
-                    "text": merged_text,
-                    "page": elements[i]['page'],
-                    "bbox": merged_bbox,
-                    "section": elements[i]['section'],
-                    "page_numbers": elements[i]['page_numbers']
-                })
-                used.add(i)
-                used.add(i+1)
-                i += 2
-                continue
-        if i not in used:
-            chunk = dict(elements[i])
-            chunk['section'] = elements[i]['section']
-            chunk['page_numbers'] = elements[i]['page_numbers']
-            chunks.append(chunk)
-        i += 1
+    # Group elements by section
+    section_chunks = {}
+    for el in elements:
+        section = el['section']
+        if section is not None and section != 'UNSECTIONED':
+            if section not in section_chunks:
+                section_chunks[section] = []
+            section_chunks[section].append(el)
+    # Create section-based chunks
+    for section, section_elements in section_chunks.items():
+        chunk = {
+            "text": section + '\n' + '\n'.join([el['text'] for el in section_elements]),
+            "page": section_elements[0]['page'],
+            "bbox": section_elements[0]['bbox'],
+            "section": section,
+            "page_numbers": sorted(list({pn for el in section_elements for pn in el.get('page_numbers', [])}))
+        }
+        chunks.append(chunk)
     # Sliding window overlap
     if sliding_window > 1:
         window_chunks = []

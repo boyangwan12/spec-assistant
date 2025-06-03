@@ -78,8 +78,10 @@ venv.bak/
 Thumbs.db
 Desktop.ini
 
-# PDF and data files
-data/
+# Data folder
+/data/
+
+# PDF files
 *.pdf
 
 # Logs

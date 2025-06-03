@@ -27,6 +27,16 @@ def reset_pinecone_index(index_name: str, pinecone_api_key: str, dimension: int 
 
 
 def embed_and_upsert_chunks(chunks: List[Dict[str, Any]], filename: str) -> dict:
+    # --- DEBUG: Export ALL chunks from chunker to file ---
+    export_path = 'all_chunks_export.txt'
+    with open(export_path, 'w', encoding='utf-8') as f:
+        f.write('--- ALL CHUNKS FROM CHUNKER ---\n')
+        for i, chunk in enumerate(chunks):
+            f.write(f"Chunk {i+1} | Section: {chunk.get('section')} | Page: {chunk.get('page')}\n")
+            f.write(chunk.get('text', '')[:200] + '\n')
+            f.write('---\n')
+        f.write('--- END ALL CHUNKS ---\n')
+    print(f"Exported all chunks to {export_path}")
     # Batch embed all chunktexts with OpenAI
     client = openai.OpenAI()  # Uses OPENAI_API_KEY from env
     texts = [chunk['text'] for chunk in chunks]

@@ -1,0 +1,674 @@
+--- ALL CHUNKS FROM CHUNKER ---
+Chunk 1 | Section: PROPRIETARY MATERIAL | Page: 1
+PROPRIETARY MATERIAL
+PROPRIETARY MATERIAL
+Changed 4.1.11
+Page 1 of 8
+INSTRUMENT TRANSFORMERS
+550kV COUPLING CAPACITOR
+VOLTAGE TRANSFORMER
+PROPRIETARY MATERIAL
+Changed 4.1.11
+Page 2 of 8
+INSTRUMENT TRA
+---
+Chunk 2 | Section: ISSUE DATE: 05-23-07 | Page: 1
+ISSUE DATE: 05-23-07
+ISSUE DATE: 05-23-07
+ISSUE DATE: 05-23-07
+ISSUE DATE: 05-23-07
+ISSUE DATE: 05-23-07
+ISSUE DATE: 05-23-07
+ISSUE DATE: 05-23-07
+ISSUE DATE: 05-23-07
+ISSUE DATE: 05-23-07
+REV. DATE: 
+---
+Chunk 3 | Section: REV. DATE: 
+10-06-16 | Page: 1
+REV. DATE: 
+10-06-16
+REV. DATE: 
+10-06-16
+APPROVAL: 
+M. Erickson
+SM-545016, 17, 48, 50  (^ see pg. 8)
+SM-545016.doc
+550kV COUPLING CAPACITOR VOLTAGE TRANSFORMER
+REV. DATE: 
+10-06-16
+APPROVAL: 
+M. Eric
+---
+Chunk 4 | Section: 1. SCOPE | Page: 1
+1. SCOPE
+1. SCOPE
+1.1 The Seller shall design, fabricate, test and deliver 550kV coupling capacitor voltage
+transformers (CCVTs) according to this specification. The CCVTs will be used for metering
+an
+---
+Chunk 5 | Section: 1.1 The Seller shall design, fabricate, test and deliver 550kV coupling capacitor voltage
+transformers (CCVTs) according to this specification. The CCVTs will be used for metering
+and relaying transmission lines. | Page: 1
+1.1 The Seller shall design, fabricate, test and deliver 550kV coupling capacitor voltage
+transformers (CCVTs) according to this specification. The CCVTs will be used for metering
+and relaying transmi
+---
+Chunk 6 | Section: 1.2 The following items are not included: | Page: 1
+1.2 The following items are not included:
+1.2 The following items are not included:
+ 
+Unloading and Installation
+ 
+All external connections
+ 
+Foundations, anchor bolts, and steel support structure
+
+---
+Chunk 7 | Section: 2. CODES AND STANDARDS | Page: 1
+2. CODES AND STANDARDS
+2. CODES AND STANDARDS
+2.1 All electrical design, materials, tests and construction shall conform to the latest applicable
+standards of ANSI, IEEE and NEMA. In case of conflicti
+---
+Chunk 8 | Section: 2.1 All electrical design, materials, tests and construction shall conform to the latest applicable
+standards of ANSI, IEEE and NEMA. In case of conflicting requirements of these standards,
+they shall apply in sequence in which they are listed here, and ultimately this specification
+shall govern. | Page: 1
+2.1 All electrical design, materials, tests and construction shall conform to the latest applicable
+standards of ANSI, IEEE and NEMA. In case of conflicting requirements of these standards,
+they shall
+---
+Chunk 9 | Section: 2.2 The following specific standards shall apply except as modified herein: | Page: 1
+2.2 The following specific standards shall apply except as modified herein:
+2.2 The following specific standards shall apply except as modified herein:
+ANSI C93.1–1999
+Requirements for Power-line Carr
+---
+Chunk 10 | Section: 2.3 All structural steel design shall conform to the latest standard of the American Institute of Steel
+Construction. | Page: 1
+2.3 All structural steel design shall conform to the latest standard of the American Institute of Steel
+Construction.
+2.3 All structural steel design shall conform to the latest standard of the Americ
+---
+Chunk 11 | Section: 2.4 All design, materials, tests and construction shall also conform to all applicable codes, laws
+and regulations of the State of Arizona or other local regulating bodies having jurisdiction over
+this apparatus. The material shall be new, of recent manufacture, and free of defects. The
+design, workmanship, and material shall be of the highest quality and most suitable for the
+application. | Page: 1
+2.4 All design, materials, tests and construction shall also conform to all applicable codes, laws
+and regulations of the State of Arizona or other local regulating bodies having jurisdiction over
+thi
+---
+Chunk 12 | Section: 2.5 If a Seller has any reason for deviation from the stated standards of design, the Seller shall
+state in the proposal the exact nature of the change and the reason for making the change. | Page: 1
+2.5 If a Seller has any reason for deviation from the stated standards of design, the Seller shall
+state in the proposal the exact nature of the change and the reason for making the change.
+2.5 If a S
+---
+Chunk 13 | Section: 2.6 In the event of conflict between the referenced standards, Buyer's drawings, and this
+specification, Seller shall notify the Buyer and secure written clarification before proceeding. | Page: 1
+2.6 In the event of conflict between the referenced standards, Buyer's drawings, and this
+specification, Seller shall notify the Buyer and secure written clarification before proceeding.
+2.6 In the ev
+---
+Chunk 14 | Section: 3. SERVICE CONDITIONS | Page: 1
+3. SERVICE CONDITIONS
+3. SERVICE CONDITIONS
+3.1 Specific standard service conditions are to be in accordance with ANSI C57.13 except as
+noted in section 3.2 below.
+3.1 Specific standard service condit
+---
+Chunk 15 | Section: 3.1 Specific standard service conditions are to be in accordance with ANSI C57.13 except as
+noted in section 3.2 below. | Page: 1
+3.1 Specific standard service conditions are to be in accordance with ANSI C57.13 except as
+noted in section 3.2 below.
+3.1 Specific standard service conditions are to be in accordance with ANSI C57.1
+---
+Chunk 16 | Section: 3.2 Specific unusual service conditions are as follows: | Page: 2
+3.2 Specific unusual service conditions are as follows:
+3.2 Specific unusual service conditions are as follows:
+3.2.1 Exposure is outdoors subject to solar radiation, rain, humidity, wind, hail and se
+---
+Chunk 17 | Section: 3.2.1 Exposure is outdoors subject to solar radiation, rain, humidity, wind, hail and severe
+windblown sand and dust. | Page: 2
+3.2.1 Exposure is outdoors subject to solar radiation, rain, humidity, wind, hail and severe
+windblown sand and dust.
+3.2.1 Exposure is outdoors subject to solar radiation, rain, humidity, wind, hail 
+---
+Chunk 18 | Section: 3.2.2 Temperatures are 50C maximum ambient, -8C minimum ambient and 40C
+maximum 24 hour average ambient. This does not include direct solar heating. | Page: 2
+3.2.2 Temperatures are 50C maximum ambient, -8C minimum ambient and 40C
+maximum 24 hour average ambient. This does not include direct solar heating.
+3.2.2 Temperatures are 50C maximum ambient, -8
+---
+Chunk 19 | Section: 3.2.3 Average relative humidity is 40 percent. | Page: 2
+3.2.3 Average relative humidity is 40 percent.
+3.2.3 Average relative humidity is 40 percent.
+3.2.4 Seismology:  All equipment specified herein shall be designed to conform to IEEE
+Practices for Seism
+---
+Chunk 20 | Section: 3.2.4 Seismology:  All equipment specified herein shall be designed to conform to IEEE
+Practices for Seismic Design of Substations, IEEE Standard 693-latest version. The
+seismic design shall be per Annex F. The seismic level shall be classified as ‘Low
+Level’. The seismic response spectra shall be obtained from Fig. 1 of IEEE Std. 693
+and the equipment shall be Class "A". (See NOTE) | Page: 2
+3.2.4 Seismology:  All equipment specified herein shall be designed to conform to IEEE
+Practices for Seismic Design of Substations, IEEE Standard 693-latest version. The
+seismic design shall be per An
+---
+Chunk 21 | Section: 3.2.5 Wind Loading:  All equipment and structures shall be designed for 90 mph wind speed,
+exposure C, in accordance with the International Building Code. (See NOTE) | Page: 2
+3.2.5 Wind Loading:  All equipment and structures shall be designed for 90 mph wind speed,
+exposure C, in accordance with the International Building Code. (See NOTE)
+3.2.5 Wind Loading:  All equipment
+---
+Chunk 22 | Section: 3.2.6 Altitude:  Less than 3,300 feet above sea level. | Page: 2
+3.2.6 Altitude:  Less than 3,300 feet above sea level.
+3.2.6 Altitude:  Less than 3,300 feet above sea level.
+3.2.7 Solar Radiation: 1000 Watts/m2 (peak), 8526 Watt-hours/m2 in a given daylight period
+---
+Chunk 23 | Section: 3.2.7 Solar Radiation: 1000 Watts/m2 (peak), 8526 Watt-hours/m2 in a given daylight period | Page: 2
+3.2.7 Solar Radiation: 1000 Watts/m2 (peak), 8526 Watt-hours/m2 in a given daylight period
+3.2.7 Solar Radiation: 1000 Watts/m2 (peak), 8526 Watt-hours/m2 in a given daylight period
+4. DESIGN AND CONS
+---
+Chunk 24 | Section: 4. DESIGN AND CONSTRUCTION | Page: 2
+4. DESIGN AND CONSTRUCTION
+4. DESIGN AND CONSTRUCTION
+4.1 Electrical Requirements
+4.1 Electrical Requirements
+4.1.1 The voltage transformers shall be designed for 60 Hz.
+4.1.1 The voltage transformers
+---
+Chunk 25 | Section: 4.1 Electrical Requirements | Page: 2
+4.1 Electrical Requirements
+4.1 Electrical Requirements
+4.1.1 The voltage transformers shall be designed for 60 Hz.
+4.1.1 The voltage transformers shall be designed for 60 Hz.
+4.1.2 The voltage transf
+---
+Chunk 26 | Section: 4.1.1 The voltage transformers shall be designed for 60 Hz. | Page: 2
+4.1.1 The voltage transformers shall be designed for 60 Hz.
+4.1.1 The voltage transformers shall be designed for 60 Hz.
+4.1.2 The voltage transformers shall be ANSI Group 3 with rated primary voltage 
+---
+Chunk 27 | Section: 4.1.2 The voltage transformers shall be ANSI Group 3 with rated primary voltage of 318,000
+volts for 550,000 volts Grounded Y. The primary connection will be line to ground. The
+Nominal System Voltage is 550kV. | Page: 2
+4.1.2 The voltage transformers shall be ANSI Group 3 with rated primary voltage of 318,000
+volts for 550,000 volts Grounded Y. The primary connection will be line to ground. The
+Nominal System Voltage
+---
+Chunk 28 | Section: 4.1.3 The B.I.L. shall be at least 1,800kV. | Page: 2
+4.1.3 The B.I.L. shall be at least 1,800kV.
+4.1.3 The B.I.L. shall be at least 1,800kV.
+4.1.4 The marked ratio shall be 2500/4500:1 and 2500/4500:1 and 2500/4500:1.
+4.1.4 The marked ratio shall be 250
+---
+Chunk 29 | Section: 4.1.4 The marked ratio shall be 2500/4500:1 and 2500/4500:1 and 2500/4500:1. | Page: 2
+4.1.4 The marked ratio shall be 2500/4500:1 and 2500/4500:1 and 2500/4500:1.
+4.1.4 The marked ratio shall be 2500/4500:1 and 2500/4500:1 and 2500/4500:1.
+4.1.5 The total thermal burden rating shall be
+---
+Chunk 30 | Section: 4.1.5 The total thermal burden rating shall be a minimum of 1500 VA. | Page: 2
+4.1.5 The total thermal burden rating shall be a minimum of 1500 VA.
+4.1.5 The total thermal burden rating shall be a minimum of 1500 VA.
+4.1.6 The minimum creepage distance shall be 500 inches.
+4.1.6
+---
+Chunk 31 | Section: 4.1.6 The minimum creepage distance shall be 500 inches. | Page: 2
+4.1.6 The minimum creepage distance shall be 500 inches.
+4.1.6 The minimum creepage distance shall be 500 inches.
+4.1.7 The CCVT shall have a corona shield at the high voltage terminal.
+4.1.7 The CCVT
+---
+Chunk 32 | Section: 4.1.7 The CCVT shall have a corona shield at the high voltage terminal. | Page: 2
+4.1.7 The CCVT shall have a corona shield at the high voltage terminal.
+4.1.7 The CCVT shall have a corona shield at the high voltage terminal.
+4.1.8 The voltage transformer shall have a ground shield
+---
+Chunk 33 | Section: 4.1.8 The voltage transformer shall have a ground shield isolating the high voltage winding
+from the secondary winding and core. | Page: 2
+4.1.8 The voltage transformer shall have a ground shield isolating the high voltage winding
+from the secondary winding and core.
+4.1.8 The voltage transformer shall have a ground shield isolating the 
+---
+Chunk 34 | Section: 4.1.9 The high voltage insulation system shall be comprised of polypropylene film, kraft
+paper, and a synthetic oil combination. | Page: 2
+4.1.9 The high voltage insulation system shall be comprised of polypropylene film, kraft
+paper, and a synthetic oil combination.
+4.1.9 The high voltage insulation system shall be comprised of polyprop
+---
+Chunk 35 | Section: 4.1.10 Ferroresonance Suppression shall be provided. The seller shall provide descriptions of
+ferroresonance suppression methods and ratings with quotation. | Page: 2
+4.1.10 Ferroresonance Suppression shall be provided. The seller shall provide descriptions of
+ferroresonance suppression methods and ratings with quotation.
+4.1.10 Ferroresonance Suppression shall be 
+---
+Chunk 36 | Section: 4.1.11 As an option, provide ability to monitor system harmonics up to the 50th harmonic. The
+seller shall provide descriptions of of this monitoring method with quotation. | Page: 2
+4.1.11 As an option, provide ability to monitor system harmonics up to the 50th harmonic. The
+seller shall provide descriptions of of this monitoring method with quotation.
+4.1.11 As an option, provid
+---
+Chunk 37 | Section: 4.1.12 The secondary box shall have a terminal block. | Page: 2
+4.1.12 The secondary box shall have a terminal block.
+4.1.12 The secondary box shall have a terminal block.
+Standard Material
+Specifications
+4.1.13 Specific stock code requirements can be found in Tab
+---
+Chunk 38 | Section: 4.1.13 Specific stock code requirements can be found in Table 1, below. | Page: 3
+4.1.13 Specific stock code requirements can be found in Table 1, below.
+4.1.13 Specific stock code requirements can be found in Table 1, below.
+Table 1. Unique 550kV CCVT Stock Code Requirements
+Capac
+---
+Chunk 39 | Section: 1.2R
+(Relaying)
+W, X, Y, Z, ZZ
+W, X, Y
+Pedestal
+NO
+5028205 | Page: 3
+1.2R
+(Relaying)
+W, X, Y, Z, ZZ
+W, X, Y
+Pedestal
+NO
+5028205
+1.2R
+(Relaying)
+W, X, Y, Z, ZZ
+W, X, Y
+Pedestal
+NO
+5028205
+3000
+0.3
+(Metering)
+1.2R
+(Relaying)
+W, X, Y, Z, ZZ 
+W, X, Y 
+Pedestal
+NO
+5028206
+5
+---
+Chunk 40 | Section: 1.2R
+(Relaying)
+W, X, Y, Z, ZZ
+W, X, Y
+Pedestal
+NO
+5028212 | Page: 3
+1.2R
+(Relaying)
+W, X, Y, Z, ZZ
+W, X, Y
+Pedestal
+NO
+5028212
+1.2R
+(Relaying)
+W, X, Y, Z, ZZ
+W, X, Y
+Pedestal
+NO
+5028212
+5000
+0.3
+(Metering)
+1.2R
+(Relaying)
+W, X, Y, Z, ZZ 
+W, X, Y 
+Suspension*
+NO
+‡ 5028
+---
+Chunk 41 | Section: 4.2 Physical Requirements | Page: 3
+4.2 Physical Requirements
+4.2 Physical Requirements
+4.2.1 The voltage transformer shall be suitable for outdoor installation, and the high voltage
+bushing shall be POLYMER.
+4.2.1 The voltage transform
+---
+Chunk 42 | Section: 4.2.1 The voltage transformer shall be suitable for outdoor installation, and the high voltage
+bushing shall be POLYMER. | Page: 3
+4.2.1 The voltage transformer shall be suitable for outdoor installation, and the high voltage
+bushing shall be POLYMER.
+4.2.1 The voltage transformer shall be suitable for outdoor installation, and t
+---
+Chunk 43 | Section: 4.2.2 The high voltage bushing exterior (or housing) material shall be composed of silicone
+rubber. EDPM rubber is not acceptable. | Page: 3
+4.2.2 The high voltage bushing exterior (or housing) material shall be composed of silicone
+rubber. EDPM rubber is not acceptable.
+4.2.2 The high voltage bushing exterior (or housing) material shall b
+---
+Chunk 44 | Section: 4.2.3 The interface between the polymer housing and the internal elements must be filled
+with a silicone dielectric compound. Also, a housing that is bonded directly to the
+internal elements is permitted. | Page: 3
+4.2.3 The interface between the polymer housing and the internal elements must be filled
+with a silicone dielectric compound. Also, a housing that is bonded directly to the
+internal elements is permit
+---
+Chunk 45 | Section: 4.2.4 Bushings shall be warranted against failure due to deterioration caused by ultraviolet
+light for a period of 5 years from shipment. The seller shall replace the CCVT at no
+charge in such a case. | Page: 3
+4.2.4 Bushings shall be warranted against failure due to deterioration caused by ultraviolet
+light for a period of 5 years from shipment. The seller shall replace the CCVT at no
+charge in such a case.
+---
+Chunk 46 | Section: 4.2.5 The color of all bushing insulators shall be gray. | Page: 3
+4.2.5 The color of all bushing insulators shall be gray.
+4.2.5 The color of all bushing insulators shall be gray.
+4.2.6 The color of any sealants visible from the outside shall be gray.
+4.2.6 The colo
+---
+Chunk 47 | Section: 4.2.6 The color of any sealants visible from the outside shall be gray. | Page: 3
+4.2.6 The color of any sealants visible from the outside shall be gray.
+4.2.6 The color of any sealants visible from the outside shall be gray.
+4.2.7 All external metal parts shall be made of corrosio
+---
+Chunk 48 | Section: 4.2.7 All external metal parts shall be made of corrosion resistant material which is gray in
+color and does not require paint for protection. | Page: 3
+4.2.7 All external metal parts shall be made of corrosion resistant material which is gray in
+color and does not require paint for protection.
+4.2.7 All external metal parts shall be made of corrosion
+---
+Chunk 49 | Section: 4.2.8 The voltage transformer shall be provided with an oil level indicator that shall be high
+temperature and ultraviolet resistant. | Page: 3
+4.2.8 The voltage transformer shall be provided with an oil level indicator that shall be high
+temperature and ultraviolet resistant.
+4.2.8 The voltage transformer shall be provided with an oil level 
+---
+Chunk 50 | Section: 4.2.9 The high voltage terminal shall be one (1) NEMA 4-hole pad. | Page: 3
+4.2.9 The high voltage terminal shall be one (1) NEMA 4-hole pad.
+4.2.9 The high voltage terminal shall be one (1) NEMA 4-hole pad.
+Standard Material
+Specifications
+4.2.10 The ground terminal shall be
+---
+Chunk 51 | Section: 4.2.10 The ground terminal shall be two (2) NEMA 2-hole pads on opposite sides of the
+CCVT. | Page: 4
+4.2.10 The ground terminal shall be two (2) NEMA 2-hole pads on opposite sides of the
+CCVT.
+4.2.10 The ground terminal shall be two (2) NEMA 2-hole pads on opposite sides of the
+CCVT.
+4.2.11 Nameplate
+---
+Chunk 52 | Section: 4.2.11 Nameplates shall be stamped, corrosion resistant, and permanently affixed in a readily
+visible location. They shall meet ANSI C93.1 requirements, include the month and year
+of manufacture, and shall include the location of the manufacturing facility. ‡ | Page: 4
+4.2.11 Nameplates shall be stamped, corrosion resistant, and permanently affixed in a readily
+visible location. They shall meet ANSI C93.1 requirements, include the month and year
+of manufacture, and 
+---
+Chunk 53 | Section: 4.2.12 The voltage transformer shall be designed to be installed on a steel support structure
+with 4 - 7/8” bolt holes in a rectangle 11–½” x 16-½”. | Page: 4
+4.2.12 The voltage transformer shall be designed to be installed on a steel support structure
+with 4 - 7/8” bolt holes in a rectangle 11–½” x 16-½”.
+4.2.12 The voltage transformer shall be designed to
+---
+Chunk 54 | Section: 4.2.13 If spacers or adapter plates are required to meet the Buyer's attachment requirements,
+they shall be shipped installed on the voltage transformer. | Page: 4
+4.2.13 If spacers or adapter plates are required to meet the Buyer's attachment requirements,
+they shall be shipped installed on the voltage transformer.
+4.2.13 If spacers or adapter plates are requir
+---
+Chunk 55 | Section: 4.2.14 Cork-neoprene gaskets shall not be used. | Page: 4
+4.2.14 Cork-neoprene gaskets shall not be used.
+4.2.14 Cork-neoprene gaskets shall not be used.
+5. TESTS
+5. TESTS
+5.1 The unit shall be tested in the following according to ANSI C93.1, section 6.3 as 
+---
+Chunk 56 | Section: 5. TESTS | Page: 4
+5. TESTS
+5. TESTS
+5.1 The unit shall be tested in the following according to ANSI C93.1, section 6.3 as a minimum.
+5.1 The unit shall be tested in the following according to ANSI C93.1, section 6.3 as
+---
+Chunk 57 | Section: 5.1 The unit shall be tested in the following according to ANSI C93.1, section 6.3 as a minimum. | Page: 4
+5.1 The unit shall be tested in the following according to ANSI C93.1, section 6.3 as a minimum.
+5.1 The unit shall be tested in the following according to ANSI C93.1, section 6.3 as a minimum.
+5.1.1 
+---
+Chunk 58 | Section: 5.1.1 Capacitance and dissipation factor measurements, section 6.3.1. | Page: 4
+5.1.1 Capacitance and dissipation factor measurements, section 6.3.1.
+5.1.1 Capacitance and dissipation factor measurements, section 6.3.1.
+5.1.2 Dielectric tests, section 6.3.2.
+5.1.2 Dielectric test
+---
+Chunk 59 | Section: 5.1.2 Dielectric tests, section 6.3.2. | Page: 4
+5.1.2 Dielectric tests, section 6.3.2.
+5.1.2 Dielectric tests, section 6.3.2.
+5.1.3 Carrier protective device, section 6.3.3.
+5.1.3 Carrier protective device, section 6.3.3.
+5.1.4 Electromagnetic unit
+---
+Chunk 60 | Section: 5.1.3 Carrier protective device, section 6.3.3. | Page: 4
+5.1.3 Carrier protective device, section 6.3.3.
+5.1.3 Carrier protective device, section 6.3.3.
+5.1.4 Electromagnetic unit protective device, section 6.3.4.
+5.1.4 Electromagnetic unit protective devic
+---
+Chunk 61 | Section: 5.1.4 Electromagnetic unit protective device, section 6.3.4. | Page: 4
+5.1.4 Electromagnetic unit protective device, section 6.3.4.
+5.1.4 Electromagnetic unit protective device, section 6.3.4.
+5.1.5 Accuracy, section 6.3.5.
+5.1.5 Accuracy, section 6.3.5.
+5.1.6 Polarity, 
+---
+Chunk 62 | Section: 5.1.5 Accuracy, section 6.3.5. | Page: 4
+5.1.5 Accuracy, section 6.3.5.
+5.1.5 Accuracy, section 6.3.5.
+5.1.6 Polarity, section 6.3.6.
+5.1.6 Polarity, section 6.3.6.
+5.2 The unit shall be tested and verified to be partial discharge free (less
+---
+Chunk 63 | Section: 5.1.6 Polarity, section 6.3.6. | Page: 4
+5.1.6 Polarity, section 6.3.6.
+5.1.6 Polarity, section 6.3.6.
+5.2 The unit shall be tested and verified to be partial discharge free (less than or equal to 2 pico-
+coloumbs @ 20°C) at 130% of operatin
+---
+Chunk 64 | Section: 5.2 The unit shall be tested and verified to be partial discharge free (less than or equal to 2 pico-
+coloumbs @ 20°C) at 130% of operating voltage. | Page: 4
+5.2 The unit shall be tested and verified to be partial discharge free (less than or equal to 2 pico-
+coloumbs @ 20°C) at 130% of operating voltage.
+5.2 The unit shall be tested and verified to be par
+---
+Chunk 65 | Section: 5.3 Certified test report copies of the tests listed in section 5.1 and 5.2 above shall be sent to the
+Buyer in the following Physical AND Electronic formats:
+
+The Physical copy shall be included with the unit it pertains to and with a copy of the
+manual, inside the secondary box of the unit.
+
+The Electronic copy shall be sent in the searchable Adobe PDF format within one
+week after completion. | Page: 4
+5.3 Certified test report copies of the tests listed in section 5.1 and 5.2 above shall be sent to the
+Buyer in the following Physical AND Electronic formats:
+
+The Physical copy shall be included wit
+---
+Chunk 66 | Section: 5.4 With each bid or term order proposal, an electronic copy of the impulse tests in ANSI C93.1
+section 6.2.1.4 & 6.2.1.5 shall be sent to the Buyer.  See section 8.5, “Required Document
+List.” | Page: 4
+5.4 With each bid or term order proposal, an electronic copy of the impulse tests in ANSI C93.1
+section 6.2.1.4 & 6.2.1.5 shall be sent to the Buyer.  See section 8.5, “Required Document
+List.”
+5.4 Wi
+---
+Chunk 67 | Section: 6. INSPECTION | Page: 4
+6. INSPECTION
+6. INSPECTION
+Inspection of apparatus may be at the Seller's factory or the delivery point at the option of the
+Buyer. Apparatus shall not be prepared for shipment or shipped before the 
+---
+Chunk 68 | Section: 7. SHIPPING | Page: 5
+7. SHIPPING
+7. SHIPPING
+7.1 PACKAGING
+7.1 PACKAGING
+7.1.1 All containers shall be clearly marked with the purchase order number, item number,
+serial number, and designation of parts enclosed and such 
+---
+Chunk 69 | Section: 7.1 PACKAGING | Page: 5
+7.1 PACKAGING
+7.1 PACKAGING
+7.1.1 All containers shall be clearly marked with the purchase order number, item number,
+serial number, and designation of parts enclosed and such additional identifying d
+---
+Chunk 70 | Section: 7.1.1 All containers shall be clearly marked with the purchase order number, item number,
+serial number, and designation of parts enclosed and such additional identifying data
+as may be specified by the Buyer. All individual parts and components shall be
+designated and marked in a manner that will facilitate installation in the field. | Page: 5
+7.1.1 All containers shall be clearly marked with the purchase order number, item number,
+serial number, and designation of parts enclosed and such additional identifying data
+as may be specified by t
+---
+Chunk 71 | Section: 7.1.2 All hardware required for assembly, other than large pieces of steel, shall be packaged
+in a wood crate with the unit with which they are intended. | Page: 5
+7.1.2 All hardware required for assembly, other than large pieces of steel, shall be packaged
+in a wood crate with the unit with which they are intended.
+7.1.2 All hardware required for assembly, othe
+---
+Chunk 72 | Section: 7.1.3 All packages shall be suitable for outdoor storage for up to one year. Crates shall be
+constructed of wood. The crate shall have a skid to clear a forklift fork. | Page: 5
+7.1.3 All packages shall be suitable for outdoor storage for up to one year. Crates shall be
+constructed of wood. The crate shall have a skid to clear a forklift fork.
+7.1.3 All packages shall be suit
+---
+Chunk 73 | Section: 7.1.4 All insulators shall be protected with heavy non-corrugated cardboard material or other
+UV resistant material during shipping. | Page: 5
+7.1.4 All insulators shall be protected with heavy non-corrugated cardboard material or other
+UV resistant material during shipping.
+7.1.4 All insulators shall be protected with heavy non-corrugated c
+---
+Chunk 74 | Section: 7.1.5 All CCVTs shall be crated individually. Failure to do so will result in a re-crating charge
+at the time of delivery. | Page: 5
+7.1.5 All CCVTs shall be crated individually. Failure to do so will result in a re-crating charge
+at the time of delivery.
+7.1.5 All CCVTs shall be crated individually. Failure to do so will result in
+---
+Chunk 75 | Section: 7.1.6 The Seller shall be responsible for and make good any and all damages due to
+improper preparation for shipment. Heavy or bulky parts shall be provided with
+eyebolts, lugs, or other lifting devices to facilitate handling with a crane. Instructions for
+handling and lifting all parts, boxes, and crates shall be clearly painted on or attached
+to the part or crate | Page: 5
+7.1.6 The Seller shall be responsible for and make good any and all damages due to
+improper preparation for shipment. Heavy or bulky parts shall be provided with
+eyebolts, lugs, or other lifting devic
+---
+Chunk 76 | Section: 7.2 POINT OF DELIVERY | Page: 5
+7.2 POINT OF DELIVERY
+7.2 POINT OF DELIVERY
+Delivery shall be made to the following point after proper notification of the designated
+company representative.
+Salt River Project
+SRP Company Representat
+---
+Chunk 77 | Section: 8. DOCUMENTATION REQUIREMENTS | Page: 5
+8. DOCUMENTATION REQUIREMENTS
+8. DOCUMENTATION REQUIREMENTS
+8.1 General Requirements
+8.1 General Requirements
+8.1.1 Compliance with the stipulations of this section is an essential element of the term
+---
+Chunk 78 | Section: 8.1 General Requirements | Page: 5
+8.1 General Requirements
+8.1 General Requirements
+8.1.1 Compliance with the stipulations of this section is an essential element of the terms
+and conditions of this negotiation.  Failure to comply wil
+---
+Chunk 79 | Section: 8.1.1 Compliance with the stipulations of this section is an essential element of the terms
+and conditions of this negotiation.  Failure to comply will result in a negative evaluation
+factor on future negotiations and may result in a cash penalty as previously stated. | Page: 5
+8.1.1 Compliance with the stipulations of this section is an essential element of the terms
+and conditions of this negotiation.  Failure to comply will result in a negative evaluation
+factor on future
+---
+Chunk 80 | Section: 8.1.2 The English language shall be used at all times for documents, drawings, and other
+correspondence. All dimensions shall be in U.S. (pounds, feet, inches, US gallons,
+etc.) customary units. Metric units may also be shown in parenthesis. | Page: 5
+8.1.2 The English language shall be used at all times for documents, drawings, and other
+correspondence. All dimensions shall be in U.S. (pounds, feet, inches, US gallons,
+etc.) customary units. Metri
+---
+Chunk 81 | Section: 8.1.3 All drawings and documents shall have “SALT RIVER PROJECT” placed in a
+prominent location with the Buyer’s purchase order number (P.O. #), Seller’s shop
+order number (S.O.#), and apparatus serial number (S.N.).  Example shown below: | Page: 6
+8.1.3 All drawings and documents shall have “SALT RIVER PROJECT” placed in a
+prominent location with the Buyer’s purchase order number (P.O. #), Seller’s shop
+order number (S.O.#), and apparatus seria
+---
+Chunk 82 | Section: SALT RIVER PROJECT “P.O.#__________________”, “S.O.#__________________“,
+“S.N.___________________”. | Page: 6
+SALT RIVER PROJECT “P.O.#__________________”, “S.O.#__________________“,
+“S.N.___________________”.
+SALT RIVER PROJECT “P.O.#__________________”, “S.O.#__________________“,
+“S.N.___________________”.
+
+---
+Chunk 83 | Section: 8.2 Transmittals | Page: 6
+8.2 Transmittals
+8.2 Transmittals
+8.2.1 All electronic documents (drawings, test reports, etc.) shall be submitted to
+8.2.1 All electronic documents (drawings, test reports, etc.) shall be submitted t
+---
+Chunk 84 | Section: 8.2.1 All electronic documents (drawings, test reports, etc.) shall be submitted to | Page: 6
+8.2.1 All electronic documents (drawings, test reports, etc.) shall be submitted to
+8.2.1 All electronic documents (drawings, test reports, etc.) shall be submitted to
+DocumentCoordinators@srpnet.com 
+---
+Chunk 85 | Section: 8.3 Drawing Requirements | Page: 6
+8.3 Drawing Requirements
+8.3 Drawing Requirements
+All drawings shall be of high quality to ensure that the finest details are readable.
+Buyer reserves the right to reject any drawing or CAD file that 
+---
+Chunk 86 | Section: 8.3.1 Standard Drawings - "Typical," "standard", or "off-the-shelf" drawings will be accepted | Page: 6
+8.3.1 Standard Drawings - "Typical," "standard", or "off-the-shelf" drawings will be accepted
+8.3.1 Standard Drawings - "Typical," "standard", or "off-the-shelf" drawings will be accepted
+if they are 
+---
+Chunk 87 | Section: 8.3.2 Drawing Revisions - When drawings are revised, the revision shall be clearly | Page: 6
+8.3.2 Drawing Revisions - When drawings are revised, the revision shall be clearly
+8.3.2 Drawing Revisions - When drawings are revised, the revision shall be clearly
+documented, with a new revision nu
+---
+Chunk 88 | Section: 8.3.3 CAD Files - All CAD file drawings (Microstation preferred) involving dimensions shall | Page: 6
+8.3.3 CAD Files - All CAD file drawings (Microstation preferred) involving dimensions shall
+8.3.3 CAD Files - All CAD file drawings (Microstation preferred) involving dimensions shall
+be drawn one to 
+---
+Chunk 89 | Section: 8.4 Drawing Review & Approval | Page: 6
+8.4 Drawing Review & Approval
+8.4 Drawing Review & Approval
+8.4.1 Review Time - Drawings submitted by the Seller will be processed by the Buyer within
+8.4.1 Review Time - Drawings submitted by the Sel
+---
+Chunk 90 | Section: 8.4.1 Review Time - Drawings submitted by the Seller will be processed by the Buyer within | Page: 6
+8.4.1 Review Time - Drawings submitted by the Seller will be processed by the Buyer within
+8.4.1 Review Time - Drawings submitted by the Seller will be processed by the Buyer within
+15 calendar days a
+---
+Chunk 91 | Section: 15 calendar days after receipt.  Drawings submitted for comment will be reviewed and
+one print will be returned by the Buyer’s Engineer marked “approved – no changes,
+work may proceed”, “approved – as marked, work may proceed with changes as
+marked” or “rejected – resubmit, work shall not proceed”. | Page: 6
+15 calendar days after receipt.  Drawings submitted for comment will be reviewed and
+one print will be returned by the Buyer’s Engineer marked “approved – no changes,
+work may proceed”, “approved – as
+---
+Chunk 92 | Section: 8.4.2 Response Time - Seller shall incorporate changes as required by comments on | Page: 7
+8.4.2 Response Time - Seller shall incorporate changes as required by comments on
+8.4.2 Response Time - Seller shall incorporate changes as required by comments on
+drawings and resubmit corrected draw
+---
+--- END ALL CHUNKS ---
