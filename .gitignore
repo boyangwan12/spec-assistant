@@ -49,6 +49,9 @@ coverage.xml
 # pipenv
 Pipfile.lock
 
+# Ignore exported chunk file
+all_chunks_export.txt
+
 # mypy
 .mypy_cache/
 .dmypy.json
